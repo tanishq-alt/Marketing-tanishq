@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "entrypoint": "SKILL.md",
+  "skills": [
+    "market-strategist",
+    "positioning-strategist",
+    "offer-strategist",
+    "copywriter",
+    "headline-hook-writer",
+    "landing-page-optimizer",
+    "content-strategist",
+    "short-form-video",
+    "brand-strategist",
+    "funnel-optimizer",
+    "research-synthesizer",
+    "campaign-critic"
+  ],
+  "foundations": [
+    "market-desire",
+    "awareness-levels",
+    "market-sophistication",
+    "audience-worldview",
+    "status-affiliation-dominance",
+    "trust-attention-permission"
+  ],
+  "principle": "diagnose-before-create"
+}

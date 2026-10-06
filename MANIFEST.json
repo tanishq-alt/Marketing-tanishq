@@ -1,0 +1,382 @@
+[
+  {
+    "path": ".github/copilot-instructions.md",
+    "bytes": 314,
+    "sha256": "79d89da039e37b2539ab1bbd21ab03fe821d8f5810ce841ccc18c98c0d8ae196"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 159,
+    "sha256": "a66dcdba17684837031cd79c07257f0cd25be5f39457f338432b573e145bfae5"
+  },
+  {
+    "path": "AGENTS.md",
+    "bytes": 820,
+    "sha256": "aeb6a18b145e33e9cbe7f8dac46d642a9dc5328471a22f7a8e486c5c55ef04b2"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "bytes": 78,
+    "sha256": "6b6c199c82a272b7e71f1aca1aef3dbc43fbdc5e94034cd62a4eaf4cc2bb4de4"
+  },
+  {
+    "path": "CLAUDE.md",
+    "bytes": 503,
+    "sha256": "d9c3264d7307272a77e05de4256c53df2bc239f7e146dba5eb80c9c1dabaea84"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "bytes": 722,
+    "sha256": "be585ee64a158c79c95247aa586aa16e79307b3e8bfc6fd63773143c755f903b"
+  },
+  {
+    "path": "LICENSE.md",
+    "bytes": 548,
+    "sha256": "1d2510e780d4d5e1acb52a1d86fc30014f3566517832b62e536fdb595e9a6e7f"
+  },
+  {
+    "path": "NOTICE.md",
+    "bytes": 812,
+    "sha256": "b6766961b2079e275d3635eebc6e0821e6eb82944ef1e36033f79ca6757275b2"
+  },
+  {
+    "path": "README.md",
+    "bytes": 6958,
+    "sha256": "2058a9dff2598adc823e7b03d29809e04f70f388007e3e05d179aee9221307b1"
+  },
+  {
+    "path": "SKILL.md",
+    "bytes": 6317,
+    "sha256": "d8f0f79b5c2e5aafc132909cfcb3cb50c6f785c6eed4a726b7c4f1dc35c93226"
+  },
+  {
+    "path": "examples/b2b-saas.md",
+    "bytes": 1359,
+    "sha256": "69081f2c7916575668e193e242c1bf2b441ca9b07f8187b08dde86da3c75e4ce"
+  },
+  {
+    "path": "examples/creator.md",
+    "bytes": 1008,
+    "sha256": "2dcbe477a8a2f3a51bbf74a5e5c8ba802410f7919ad668cd782b426974862b01"
+  },
+  {
+    "path": "examples/ecommerce.md",
+    "bytes": 967,
+    "sha256": "00571d89ec7f86b2862e80269eb7d5f27d1f3157d8140a43d8a619f484cb6dd4"
+  },
+  {
+    "path": "examples/local-service.md",
+    "bytes": 844,
+    "sha256": "0af5c482cee706093f2fc5969abbf895d53690d2b1e83989b4e4e5319c861e5b"
+  },
+  {
+    "path": "knowledge/00-foundations/audience-worldview.md",
+    "bytes": 1264,
+    "sha256": "ff3642f5cd51b2098c01291a02c499824f116e75656a536394431d65356b94f7"
+  },
+  {
+    "path": "knowledge/00-foundations/awareness-levels.md",
+    "bytes": 2059,
+    "sha256": "d052cf7f0e510695921f420af276ec98ea9a56dcabd64d05227dafe966fb5a6d"
+  },
+  {
+    "path": "knowledge/00-foundations/market-desire.md",
+    "bytes": 1751,
+    "sha256": "78765693b0ac053c868994f220e7804550c9528b0bc0b341101d89e80ad95cca"
+  },
+  {
+    "path": "knowledge/00-foundations/market-sophistication.md",
+    "bytes": 1763,
+    "sha256": "4355779d047e0cd8c6d5169893e0dde1693036f6711ac5dea50e37e3694488b8"
+  },
+  {
+    "path": "knowledge/00-foundations/marketing-as-change.md",
+    "bytes": 1818,
+    "sha256": "5f800f5517c07784e940fddd4be340624790a718484d9dbfc93276fb26d030f7"
+  },
+  {
+    "path": "knowledge/00-foundations/status-affiliation-dominance.md",
+    "bytes": 1131,
+    "sha256": "4ac7d768b0d3b2358587f8febd375d6c7181dde848dff533a9718e8644b7a799"
+  },
+  {
+    "path": "knowledge/00-foundations/tensions-between-frameworks.md",
+    "bytes": 1836,
+    "sha256": "5bf5c9ac196a00d85c64167311ccc3e5000d9b937d359be6fb00476377c25c14"
+  },
+  {
+    "path": "knowledge/00-foundations/trust-attention-permission.md",
+    "bytes": 1390,
+    "sha256": "50d8c93347c96b344b1dda54d77e2261ea7216396eaeaeef04685b5b5c25818e"
+  },
+  {
+    "path": "knowledge/01-strategy/differentiation-mechanism.md",
+    "bytes": 1480,
+    "sha256": "9251fe59dd2ddcb534b1b1d78ea05e5a3d5e7385d91685b3520cb53738adf78e"
+  },
+  {
+    "path": "knowledge/01-strategy/funnel-and-friction.md",
+    "bytes": 995,
+    "sha256": "4b88462a87a414303e9e795b97c4909c71406597a5248570b6e98205b60b41a6"
+  },
+  {
+    "path": "knowledge/01-strategy/offer-and-value.md",
+    "bytes": 1014,
+    "sha256": "68a4c4c8aee5b7f3ddec56417008cd34f22a2f8695447d1d22af6c7bad94cd1e"
+  },
+  {
+    "path": "knowledge/01-strategy/positioning.md",
+    "bytes": 1309,
+    "sha256": "30d8effc8cf5f585c5d3f401f91ab23281647a1bc7ea3eef10ee28dbf3cdd4ff"
+  },
+  {
+    "path": "knowledge/01-strategy/pricing-as-signal.md",
+    "bytes": 918,
+    "sha256": "384c11597eed165fa676a480d2d96ba3531c9144ee024eaa163b595fb4d276d9"
+  },
+  {
+    "path": "knowledge/01-strategy/smallest-viable-market.md",
+    "bytes": 1053,
+    "sha256": "3c3478c296edf824eabf18704527e73fee4109f63d3ccf2076a53571ab52ba47"
+  },
+  {
+    "path": "knowledge/02-copy/copy-principles.md",
+    "bytes": 1638,
+    "sha256": "bd9cf16fd29f89e2c21409e090482319909d4a62d6940b3d2b96aa9cd9c88fb1"
+  },
+  {
+    "path": "knowledge/02-copy/headlines-and-hooks.md",
+    "bytes": 1612,
+    "sha256": "b552fcbc0493118b145743d31aca1aa42a8fde528f1990a757669aa1586fe9e4"
+  },
+  {
+    "path": "knowledge/02-copy/long-vs-short-copy.md",
+    "bytes": 854,
+    "sha256": "dbbf8b7fec4b4c742811979abffe24cea048bc0cefdeb93bd0553c21d3af76fc"
+  },
+  {
+    "path": "knowledge/02-copy/objection-reframing.md",
+    "bytes": 1148,
+    "sha256": "1d2c3f2aee871153a63ffcef7f4cb10875f884eb1d75319a26e4f4b6a3b59812"
+  },
+  {
+    "path": "knowledge/02-copy/proof-and-believability.md",
+    "bytes": 1267,
+    "sha256": "92df6202f8e81467b6169e4d74ae253ee98a6cbd7fc160836b2daaaf84562e97"
+  },
+  {
+    "path": "knowledge/03-content/content-packaging.md",
+    "bytes": 824,
+    "sha256": "6ee77e4c2ecd35689d4045b9cb3ff44dc1e3e90da7cf6d3e8a744c42dac9ff75"
+  },
+  {
+    "path": "knowledge/03-content/hook-point-system.md",
+    "bytes": 1395,
+    "sha256": "0b1925de3faeb772a03cff5a98f534bc90c96652e3b09e62a30d3354ee3ac7aa"
+  },
+  {
+    "path": "knowledge/03-content/storytelling.md",
+    "bytes": 1037,
+    "sha256": "5d8179699f9189195de23966eb10479712154341c305786f95fbcd629ee47451"
+  },
+  {
+    "path": "knowledge/03-content/testing-and-iteration.md",
+    "bytes": 1170,
+    "sha256": "8dcd12db6c1bffc0fa4e8667e2fec340175ceab0face107309651974ead839ca"
+  },
+  {
+    "path": "knowledge/03-content/virality-and-sharing.md",
+    "bytes": 816,
+    "sha256": "5d63ac5d561172d4a91ba2b8f31659d697cb387494db72de3acd92d713a7ac39"
+  },
+  {
+    "path": "knowledge/04-diagnostics/campaign-diagnostic.md",
+    "bytes": 814,
+    "sha256": "7829f2c75ab61ce0c5d4524a5fa33cc1d86b5e225e47d3fce5b14cb3557972c3"
+  },
+  {
+    "path": "knowledge/04-diagnostics/creative-diagnostic.md",
+    "bytes": 855,
+    "sha256": "8950e07e3f2e1628b604cc81320cdaff1e81b210240dc774632ad2a2ff5dfe61"
+  },
+  {
+    "path": "knowledge/04-diagnostics/landing-page-diagnostic.md",
+    "bytes": 1135,
+    "sha256": "60b284f660e61a132528c3214a91165dc5e5e507455989e8a73e1557c32ba594"
+  },
+  {
+    "path": "knowledge/04-diagnostics/message-market-fit.md",
+    "bytes": 974,
+    "sha256": "dc0cedde9a995fbe4c198eea087063a720f6ed5eb0572c223c650b89c81c105e"
+  },
+  {
+    "path": "knowledge/index.json",
+    "bytes": 609,
+    "sha256": "ec79609e78b6f8c901866cb09a28880f42f477f5101711692f626ac2e7b97628"
+  },
+  {
+    "path": "prompts/campaign.md",
+    "bytes": 386,
+    "sha256": "91104438261bbc8b92150e6e62a97e3177203f7d88381066e48cc3d7701080b5"
+  },
+  {
+    "path": "prompts/critique.md",
+    "bytes": 476,
+    "sha256": "fb1d94e4f1b57694c3b1ebd749d6778a28973e979ea113090aa755abcafb2710"
+  },
+  {
+    "path": "prompts/idea-generation.md",
+    "bytes": 430,
+    "sha256": "28504517b253d8296a1346e76976cfa68cd201317444404ae0adf80ec7108275"
+  },
+  {
+    "path": "prompts/rewrite.md",
+    "bytes": 273,
+    "sha256": "778f0377a9341bae51795703781f4cbf54afb450baaabe34aa0bda1a02c931d6"
+  },
+  {
+    "path": "prompts/universal-marketing-brief.md",
+    "bytes": 618,
+    "sha256": "cdf834cdf1b8ba09c65d645ba6de9174b3f68ede8f17e7cd463fbd78fffdb6d3"
+  },
+  {
+    "path": "rubrics/campaign-scorecard.md",
+    "bytes": 591,
+    "sha256": "57c2e273ac164defd698c0342196543a793948e7cee8f8f75c9caf268f6d2317"
+  },
+  {
+    "path": "rubrics/copy-scorecard.md",
+    "bytes": 471,
+    "sha256": "c40e11c39df384d12ffdf39a50c9d55528d9d608fdbda486afbde94f6c36ad69"
+  },
+  {
+    "path": "rubrics/hook-scorecard.md",
+    "bytes": 274,
+    "sha256": "cdc76fb2249024a43e136d74a54c1f9c50735d95a9e24e76baeeb3b9ce80d363"
+  },
+  {
+    "path": "rubrics/positioning-scorecard.md",
+    "bytes": 360,
+    "sha256": "a5e403981d14e3490be5909a8ae6401a3efdedefa2c4577641656a1d352fdd30"
+  },
+  {
+    "path": "scripts/validate_repo.py",
+    "bytes": 684,
+    "sha256": "3b56a3e01c4998b7d26335cad435d9972822098589d8efd4d9281d2778b8f024"
+  },
+  {
+    "path": "skills/README.md",
+    "bytes": 216,
+    "sha256": "7a0388da9b3e84ac5b87214dcec772ef7e22e608c79c056a708423e17e533ffe"
+  },
+  {
+    "path": "skills/brand-strategist/SKILL.md",
+    "bytes": 1241,
+    "sha256": "3752ec91d3a0e6ba7f4d4ba855cb9faaf4629499253f857601b0bd6dad041103"
+  },
+  {
+    "path": "skills/campaign-critic/SKILL.md",
+    "bytes": 1027,
+    "sha256": "48bb0cc18b4959f82cb5038ef745444c20a63685ab5aa239fcd5b51393c1f2b3"
+  },
+  {
+    "path": "skills/content-strategist/SKILL.md",
+    "bytes": 1223,
+    "sha256": "b5db141d6533de9f3ca69954eec7c00e709faea3fb66e2b242aa5d8e2ef00297"
+  },
+  {
+    "path": "skills/copywriter/SKILL.md",
+    "bytes": 1158,
+    "sha256": "92f9d160f87be7376d73f275a10161abaf1d446e52959bcf4da85dfe896dd341"
+  },
+  {
+    "path": "skills/funnel-optimizer/SKILL.md",
+    "bytes": 1041,
+    "sha256": "46e94c6f45d2bf6910f1ecfc465f6448a42222ef288ac97d56fc286579b4c3ad"
+  },
+  {
+    "path": "skills/headline-hook-writer/SKILL.md",
+    "bytes": 1112,
+    "sha256": "07dddcb2d158ed7ceb316c34e43f0f1897ac5a79e2679467714937ad7a08f1e5"
+  },
+  {
+    "path": "skills/landing-page-optimizer/SKILL.md",
+    "bytes": 1130,
+    "sha256": "37943ed46f1347bf45dcf089d1b391918ee69f75a16d5f4a38d61d7dc79c6a74"
+  },
+  {
+    "path": "skills/market-strategist/SKILL.md",
+    "bytes": 1367,
+    "sha256": "c5c6e943d4eb70d453c5d1b140d7e3d79d2f2d95cebfc4a3b55bc4cbd9ea655e"
+  },
+  {
+    "path": "skills/offer-strategist/SKILL.md",
+    "bytes": 1068,
+    "sha256": "27ed34fd58ff5d827c213982d4e903bc702446acb999d284826906b6ea2a32c6"
+  },
+  {
+    "path": "skills/positioning-strategist/SKILL.md",
+    "bytes": 1284,
+    "sha256": "5ed5532617acc1f1e3ec9e037b785619f708479e2392407a4ed1f4a584b76377"
+  },
+  {
+    "path": "skills/research-synthesizer/SKILL.md",
+    "bytes": 1248,
+    "sha256": "b17fb55e9a16d6d4cfdf33e11997be09702c45e1bfc2a313f32be614006a9f34"
+  },
+  {
+    "path": "skills/short-form-video/SKILL.md",
+    "bytes": 1193,
+    "sha256": "ee8d2eae19bc09518be0983722a2eff64d4a5c8df6faa72975282c322f185db9"
+  },
+  {
+    "path": "sources/bibliography.md",
+    "bytes": 918,
+    "sha256": "c36cce8894fc1cfb3be4272c85657143972bb82dbe567e8c4025ed8bde3b9b20"
+  },
+  {
+    "path": "sources/local-source-instructions.md",
+    "bytes": 421,
+    "sha256": "0c6b514ff741951c06bd2f7c032779e7a6579ca207cad3508cf7c7b94701b172"
+  },
+  {
+    "path": "sources/source-map.md",
+    "bytes": 1161,
+    "sha256": "ae9d4d68dd10801cde8f7b0d9c7185ca973c5bd89bb437270e315cdb7755b10a"
+  },
+  {
+    "path": "sources/source-quality.md",
+    "bytes": 1285,
+    "sha256": "0bd97d7b96d596ef335fa107ff1a083f9512ba0239e71d5a5df22a71734bf0d8"
+  },
+  {
+    "path": "templates/copy-brief.md",
+    "bytes": 250,
+    "sha256": "74a05f8114fe586b95ea94b2386313d2b5909a4806f4e410c7e477adb382e759"
+  },
+  {
+    "path": "templates/creative-brief.md",
+    "bytes": 284,
+    "sha256": "0cc2cdc597fae4f273841b4144dc1f5d1787af49379e5e2afe94c554afc3063f"
+  },
+  {
+    "path": "templates/customer-research.md",
+    "bytes": 521,
+    "sha256": "2831405e2fd3e5df360ed06cbd90b69d339e557a4b52a5393edcb0ca80d09fc5"
+  },
+  {
+    "path": "templates/experiment-card.md",
+    "bytes": 348,
+    "sha256": "fa6cf320d77ed3bbca273df6f0675dcd8c86ec20df617a3dd0ab75abb95589ba"
+  },
+  {
+    "path": "templates/positioning-brief.md",
+    "bytes": 250,
+    "sha256": "ce9d8725c26abd79d76ea616e40f6a310cb21cdd02c8b2a35e1922056301cd18"
+  },
+  {
+    "path": "templates/universal-marketing-brief.md",
+    "bytes": 473,
+    "sha256": "9b195c8743c3d14c5038179628bdde8dabd097675b4235478b4693a9b68ab172"
+  }
+]
